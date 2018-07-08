@@ -6,7 +6,7 @@ g = "tttga"
 b = []
 
 if f == 23:
-	print("ok")
+	print("ok!")
 
 n = [3, "ddd"]
 
