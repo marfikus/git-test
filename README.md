@@ -1,5 +1,5 @@
 # git-test
 
-this is for my training to work with the git &amp; github
+it is playground for my training to work with git and github
 
 ---
