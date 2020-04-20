@@ -11,4 +11,4 @@ if f == 23:
 n = [3, "ddd"]
 n = [3, "ddd"]
 
-print()
+print("ddd")
