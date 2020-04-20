@@ -9,8 +9,3 @@ if f == 23:
 	print("ok!")
 
 n = [3, "ddd"]
-n = [3, "ddd"]
-
-print("ddd")
-
-s = "string"
